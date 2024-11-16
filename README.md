@@ -20,7 +20,7 @@
 1. Clone the repository or download its contents:
 
    ```bash
-   git clone <URL of your repository>
+   git clone https://github.com/ScrabyQ/git-author-changer.git
    cd chauthor
    ```
 
